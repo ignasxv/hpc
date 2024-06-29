@@ -1,0 +1,14 @@
+Simulation Using Paraview:
+
+Open ->vertex.vtu
+Click Apply
+Toggle to  Advanced Properties mode if in a different mode 
+Change Line Width = 5
+Toggle Color Legend Visibility
+Click on Glyph for Vertex; change arrow to sphare; radius=1
+Click Appy
+Go to View->Selection Display Inspector
+Click icon selects cells through .. in render view and select the graph
+Select ID in Cell Labels. It will display cell ID from 0 -7 i.e. 8 edges
+Select degree in "Point Labels"
+ 
